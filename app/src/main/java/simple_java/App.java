@@ -5,7 +5,7 @@ package simple_java;
 
 public class App {
     public String getGreeting() {
-        return "Hello Gradle!";
+        return "Hello Gradle V2!";
     }
 
     public static void main(String[] args) {

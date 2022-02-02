@@ -28,9 +28,3 @@ application {
     // Define the main class for the application.
     mainClass = 'simple_java.App'
 }
-
-jar {
-    manifest {
-        attributes 'Main-Class': 'simple_java.Apps'
-    }
-}
